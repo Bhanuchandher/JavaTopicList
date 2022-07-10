@@ -6,7 +6,8 @@ public class javasdemo1 {
 		// TODO Auto-generated method stub
 		System.out.println("Code push from sourcetree");
 		
-		System.out.println("Welcome to source tree");
+		
+		System.out.println("Welcome to github gthrough source tree");
 
 	}
 
