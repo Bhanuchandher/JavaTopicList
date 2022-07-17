@@ -7,6 +7,7 @@ public class javademo7 {
 		System.out.println("add to index");
 		System.out.println("commit changes");
 		System.out.println("push to remote (github)");
+		Sysgtem.out.println("fetch code");
 
 	}
 
