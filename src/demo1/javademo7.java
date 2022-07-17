@@ -6,7 +6,7 @@ public class javademo7 {
 		// TODO Auto-generated method stub
 		System.out.println("add to index");
 		System.out.println("commit changes");
-		System.out.println("push to remote");
+		System.out.println("push to remote (github)");
 
 	}
 
